@@ -2,3 +2,6 @@
 wordConfig:
   preamble: The lucky word is
   luckyWord: IrishHacked
+
+---
+mylucky-word: YouGotHacked!
