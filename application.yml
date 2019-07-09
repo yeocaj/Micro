@@ -9,7 +9,7 @@ eureka:
 spring:
   profiles: subject
 #words: I,You,He,She,It
-words: Jack,Kim,Bill,Trump,Lee
+words: Jacky,Kimy,Billy,Trumpy,LeeLee
    
 ---
 spring:
